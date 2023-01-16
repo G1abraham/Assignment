@@ -78,4 +78,7 @@ public class Main {
                 case 4:
                     System.out.println("Closing the application...");
                     System.exit(0);
-            }}}}
+            }
+        }
+    }
+}
