@@ -22,7 +22,7 @@ public class Main {
             System.out.println("Please select an option:");
             System.out.println("1. View files in ascending order");
             System.out.println("2. Add/Delete/Search a file");
-            System.out.println("3. Return to main context");
+            System.out.println("3. Return to main menu");
             System.out.println("4. Close the application");
 
             Scanner input = new Scanner(System.in);
